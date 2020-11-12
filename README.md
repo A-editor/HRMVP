@@ -10,7 +10,11 @@ You are also able to navigate to each tab from the extension window by clicking 
 
 Upon opening Tabs Manager (Ctrl + A), all tabs will be sorted by their website, in alphabetical order.
 
+![Screen Shot 2020-11-12 at 5 58 03 PM](https://user-images.githubusercontent.com/47264521/99006633-c7fec880-2510-11eb-8584-87d41054a7e2.png)
+
 Tabs will be displayed in the extension window under their respective URL.
+
+![Screen Shot 2020-11-12 at 5 58 15 PM](https://user-images.githubusercontent.com/47264521/99006667-d1883080-2510-11eb-8a85-31d2dbd7b40a.png)
 
 You can navigate to a tab by clicking on the appropriate button with the tab title.
 
