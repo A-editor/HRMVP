@@ -1,14 +1,14 @@
 # Tabs Manager
 
-Tabs Manager is a browser extension for Chrome meant to be most useful when a user has multiple tabs open from a few different websites. The idea being that, in the course of researching a bug for example, you may have six or seven tabs open from stackoverflow.com, and a similar amount each from medium.com, youtube.com, etc. These tabs quickly become difficult to work with and separate out as the tabs shrink on screen. 
+Tabs-Manager is a browser extension for Chrome meant to be most useful when a user has multiple tabs open from a few different websites. The idea being that, in the course of researching a bug for example, you may have six or seven tabs open from stackoverflow.com, and a similar amount each from medium.com, youtube.com, etc. These tabs quickly become difficult to work with and separate out as the tabs shrink on screen. 
 
-Tabs Manager will organize the tabs be website (alphabetically) and then categorize and display all tabs that are open in the extension window.
+Tabs-Manager will organize the tabs be website (alphabetically) and then categorize and display all tabs that are open in the extension window.
 
 You are also able to navigate to each tab from the extension window by clicking a button next to the tab information.
 
 ## Features 
 
-Upon opening Tabs Manager (Ctrl + A), all tabs will be sorted by their website, in alphabetical order.
+Upon opening Tabs-Manager (Ctrl + A), all tabs will be sorted by their website, in alphabetical order.
 
 ![Screen Shot 2020-11-12 at 5 58 03 PM](https://user-images.githubusercontent.com/47264521/99006633-c7fec880-2510-11eb-8584-87d41054a7e2.png)
 
