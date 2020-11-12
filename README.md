@@ -8,7 +8,7 @@ You are also able to navigate to each tab from the extension window by clicking 
 
 ## Features 
 
-Upon opening Tabs Manager (Shift + A), all tabs will be sorted by their website, in alphabetical order.
+Upon opening Tabs Manager (Ctrl + A), all tabs will be sorted by their website, in alphabetical order.
 
 <img src="./images/actions.png"  width="250"> &nbsp;&nbsp;&nbsp; <img src="./images/window.png"  width="250">
 
